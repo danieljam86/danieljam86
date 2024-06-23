@@ -24,5 +24,13 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue-dot-js)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![AWS API Gateway](https://img.shields.io/badge/-AWS%20API%20Gateway-05122A?style=flat&logo=amazon-aws)
+![AWS Route 53](https://img.shields.io/badge/-AWS%20Route%2053-05122A?style=flat&logo=amazon-aws)
+![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-05122A?style=flat&logo=amazon-aws)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-05122A?style=flat&logo=amazon-aws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-05122A?style=flat&logo=amazon-aws)
+![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=githubactions)
 
 
