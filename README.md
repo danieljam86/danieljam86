@@ -16,6 +16,10 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljam86&show_icons=true&theme=radical)
 
+## 📈 GitHub Analytics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljam86&layout=compact&theme=radical)](https://github.com/danieljam86)
+
 ## 🔧 Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
@@ -32,9 +36,7 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue-dot-js)
 
-## 📈 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljam86&layout=compact&theme=radical)](https://github.com/danieljam86)
 
 ## 🌐 Conecte-se Comigo
 
