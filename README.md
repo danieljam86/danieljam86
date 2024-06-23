@@ -15,10 +15,8 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
   <img src="https://img.shields.io/github/followers/danieljam86?style=social" alt="GitHub followers" style="margin-right: 10px;">
   <img src="https://img.shields.io/github/stars/danieljam86?style=social" alt="GitHub stars">
 </div>
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljam86&show_icons=true&theme=radical)
-## 📈 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljam86&layout=compact&theme=radical)](https://github.com/danieljam86)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljam86&show_icons=true&theme=radical)
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -36,7 +34,20 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue-dot-js)
 
+## 📁 Repositórios
+
+### Públicos
+
+- [JWT_DocuSign](https://github.com/danieljam86/JWT_DocuSign): Uma implementação do JWT com a API DocuSign. (C#)
+- [FunctionAzureApiJsonPlaceHolder](https://github.com/danieljam86/FunctionAzureApiJsonPlaceHolder): Função Azure para interagir com a API jsonplaceholder. (C#)
+- [VueJs](https://github.com/danieljam86/VueJs): Projeto básico usando Vue.js.
+- [EPlayers-angular](https://github.com/danieljam86/EPlayers-angular): Aplicação em Angular para gerenciamento de eSports. (TypeScript)
+- [site_senai_](https://github.com/danieljam86/site_senai_): Projeto de site desenvolvido durante curso no SENAI. (HTML)
+- [API_e_MVC_dotnet](https://github.com/danieljam86/API_e_MVC_dotnet): Aplicação API e MVC para conexão dos dados via API. (JavaScript)
 
 
-## 🌐 Conecte-se Comigo
+
+## 📈 GitHub Analytics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljam86&layout=compact&theme=radical)](https://github.com/danieljam86)
 
