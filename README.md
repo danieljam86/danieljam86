@@ -24,12 +24,13 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue-dot-js)
 
 ## 📈 GitHub Analytics
 
