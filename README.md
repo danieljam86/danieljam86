@@ -14,7 +14,6 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 <div style="display: flex; align-items: center;">
   <img src="https://img.shields.io/github/followers/danieljam86?style=social" alt="GitHub followers" style="margin-right: 10px;">
   <img src="https://img.shields.io/github/stars/danieljam86?style=social" alt="GitHub stars">
-  
 </div>
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljam86&show_icons=true&theme=radical)
 ## 📈 GitHub Analytics
