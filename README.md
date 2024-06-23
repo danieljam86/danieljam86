@@ -11,14 +11,12 @@ Olá! Sou Daniel Brandão, um entusiasta de tecnologia com mais de 10 anos de ex
 
 ## 🚀 Estatísticas
 
-![GitHub followers](https://img.shields.io/github/followers/danieljam86?style=social)
-![GitHub stars](https://img.shields.io/github/stars/danieljam86?style=social)
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/github/followers/danieljam86?style=social" alt="GitHub followers" style="margin-right: 10px;">
+  <img src="https://img.shields.io/github/stars/danieljam86?style=social" alt="GitHub stars">
+</div>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljam86&show_icons=true&theme=radical)
-
-## 📈 GitHub Analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljam86&layout=compact&theme=radical)](https://github.com/danieljam86)
 
 ## 🔧 Tecnologias e Ferramentas
 
